@@ -1,6 +1,6 @@
 {
-    "name": "iconfont-build-tools",
-    "version": "1.0.0",
+    "name": "iconfont-build-tool",
+    "version": "1.0.1",
     "description": "create iconfont.js like iconfont.cn",
     "main": "dist/index.js",
     "bin": {
@@ -11,7 +11,11 @@
         "dist/",
         "yarn.lock"
     ],
-    "author": "lianghuitao <lianghuitao@cvte.com>",
+    "author": "miunaliang <miunaliang@outlook.com>",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/black-golden-road/iconfont-build-tools"
+    },
     "license": "MIT",
     "devDependencies": {
         "@types/node": "^18.11.17",
